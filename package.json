@@ -4,7 +4,7 @@
     "description": "Sample project for AWS CodeBuild",
     "main": "app.js",
     "scripts": {
-      "start": "node app/app.js"
+      "start": "node app.js"
     },
     "author": "Shashi",
     "license": "ISC",
